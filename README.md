@@ -9,7 +9,6 @@ This repository contains a variety of data structures implemented in C++. The st
    - Welcome to the "Data Structures in C++" repository! This collection features a variety of fundamental data structures implemented in C++. This repository provides practical examples and explanations of essential data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
 
 2. [Data Structures Implemented](#data-structures-implemented)
-   - Arrays
    - Linked Lists
    - Stacks
    - Queues
@@ -43,7 +42,7 @@ This repository contains a variety of data structures implemented in C++. The st
           -> Rotations (LL, RR, LR, RL)
           -> Operations: Insertion, Deletion, and Balancing
 
-## Binary Search Trees (BSTs):
+### Binary Search Trees (BSTs):
 
           -> Basic operations: Insertion, Deletion, Search
           -> Traversal methods: Inorder, Preorder, Postorder
