@@ -1,5 +1,39 @@
-# Data-Structures
+# Data-Structures in C++
 This repository contains a variety of data structures implemented in C++. The structure is well-organized into directories, each focusing on different data structures, algorithms, and their respective implementations. It includes detailed implementations of trees (like AVL Trees, Binary Search Trees), heaps (Max and Min), stacks, queues, linked lists, and graph algorithms. Additionally, the repository features sorting algorithms (such as Merge Sort, Quick Sort, Heap Sort, etc.) and searching techniques. Each directory is structured to focus on specific data structures and algorithms, offering practical examples and use cases to reinforce learning.
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+---
+## Table of Contents
+1. [Introduction](#introduction)
+   - Welcome to the "Data Structures in C++" repository! This collection features a variety of fundamental data structures implemented in C++. This repository provides practical examples and explanations of essential data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
+
+2. [Data Structures Implemented](#data-structures-implemented)
+   - Arrays
+   - Linked Lists
+   - Stacks
+   - Queues
+   - Search Algorithms
+   - Sorting Algorithms
+   - Infix, Prefix, and Postfix Conversions
+   - Trees
+     - Binary Trees
+     - Binary Search Trees
+     - AVL Trees
+     - Heap Trees
+   - Graphs
+     - Adjacency Matrix
+     - Adjacency List
+       
+4. [Usage](#usage)
+   - Download these zip files according to your topic requirement and then extract the zip file into a folder. Then go to your IDE that you use for coding and open that extracted folder in your IDE and Start Coding :)
+     
+5. [License](#license)
+   - ![License](https://img.shields.io/badge/license-MIT-blue)
+     
+6. [Contact](#contact)
+   - Email for any misconsception.
+   - Email: atest4569@gmail.com
 
 ---
 ## Detailed Topics Covered:
