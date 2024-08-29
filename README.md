@@ -1,5 +1,5 @@
 # Data-Structures
-This repository contains a variety of data structures implemented in C++. The structure is well-organized into directories, each focusing on different data structures, algorithms, and their respective implementations.
+This repository contains a variety of data structures implemented in C++. The structure is well-organized into directories, each focusing on different data structures, algorithms, and their respective implementations. It includes detailed implementations of trees (like AVL Trees, Binary Search Trees), heaps (Max and Min), stacks, queues, linked lists, and graph algorithms. Additionally, the repository features sorting algorithms (such as Merge Sort, Quick Sort, Heap Sort, etc.) and searching techniques. Each directory is structured to focus on specific data structures and algorithms, offering practical examples and use cases to reinforce learning.
 
 ---
 ## Detailed Topics Covered:
